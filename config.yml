@@ -1,0 +1,5 @@
+# patch key, for decrpyting the encrypted patch data, DO NOT GIVE TO ANYONE
+patchKey: 12345a
+
+# port of the patch server
+port: 8080

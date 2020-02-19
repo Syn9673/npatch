@@ -1,0 +1,5 @@
+patches:
+  # this would be the name of the output file
+  - PatchFileName:
+    # an array of the files to add to the patch
+    - FilesToPatch.txt
