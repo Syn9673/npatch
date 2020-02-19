@@ -48,4 +48,5 @@ patches:
 #### Client
 - Make sure you have `pkg` installed, if not simply run `npm install -g pkg` on cmd.  
 - Open up `config.js` and place the patchKey and port of the one that you placed on the `config.yml` file on the main directory.  
-- The host is the ip of where the patch server is being run on.
+- The host is the ip of where the patch server is being run on.  
+- After all that, go back to `src/client` folder and run `pkg index.js --target=all --output=patcher.exe`
